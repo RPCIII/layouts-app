@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Layouts App</string>
+    <string name="about_3D_modeling">About 3D Modeling</string>
+    <string name="modeling_work_flow">Work Flow for 3D Modeling</string>
+    <string name="applications">Applications of 3D Modeling</string>
+    <string name="current_project">My Current Project</string>
+    <string name="settings">Settings</string>
+
+
+
+    <string name="back">Back</string>
+
+
+
+    <string name="modeling_desciptiont">
+        My interest in 3D modeling came about when I started learning the Unity Game Engine for fun. I decided to forgo
+        2D art that I\'ve grown accustomed to for higher quality, hand made 3D models.\n
+    </string>
+    <string name="my_interest">
+        I was used to using small game libraries that didn\'t support 3D models, but decided the opportunity to
+        learns something new shouldn\'t be passed up. The multiple aspects of 3D modeling have proved to be
+        a massive new area for me to explore.\n
+    </string>
+    <string name="common_uses">
+        I began learning 3D modeling and have since dedicated a lot of my spare time to it, finding it to be
+        an excellent source of expression. There are more nuances and subtleties that allow for more accurate depictions
+        of the mind\'s eye.\n
+    </string>
+    <string name="how_to_learn">
+        Throughout this App, I will be giving some information on 3D modeling and the things I\'ve learned since
+        starting up.
+    </string>
+
+
+    <string name="workflowDesc">First, a basic sculpt is made. This can be very technical or akin to working with clay
+    depending on the program and method used. After this, we have several steps before the model is ready.</string>
+    <string name="retopo">Retopology</string>
+    <string name="uvMapping">UV Mapping</string>
+    <string name="rigging">Rigging</string>
+    <string name="skinning">Skinning</string>
+    <string name="animation">Animation</string>
+    <string name="retopDesc">This process lowers the resolution of the model by
+    decreasing the overall polygon count.</string>
+    <string name="uvDesc">This is the process of unwrapping a model so that a 2D
+        skin can be placed on it; much like a dissected cube.</string>
+    <string name="riggingDesc">Creating "bones" within a model that allow it to be moved
+    how we would expect.</string>
+    <string name="skinDesc">After the rig is made, it is bound to the 3D model in
+        this process.</string>
+    <string name="animDesc">After all of this, you can begin animating a 3D model and capturing animations for different
+    purposes.</string>
+
+    <string name="applicationDesc">3D Modeling has many different professional applications,
+    each with their own subsects.</string>
+    <string name="tech">Technical</string>
+    <string name="arch">Architecture</string>
+    <string name="car">Vehicles</string>
+    <string name="elect">Electronics</string>
+
+    <string name="art">Art</string>
+    <string name="cgi">CGI</string>
+    <string name="animations">Animations</string>
+    <string name="artwork">3D Artwork</string>
+
+    <string name="games">Games</string>
+    <string name="characters">Characters</string>
+    <string name="environ">Environment</string>
+    <string name="concept">Concept Art</string>
+
+
+    <string name="currentProj">My current project is a character model. It is currently
+    in the retopology phase. We can see the base sculpt in orange underneath the new topology.</string>
+
+    <string name="darkmode">Dark Mode</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="textSize">Font Size</string>
+    <string name="smallText">Small</string>
+    <string name="mediumText">Medium</string>
+    <string name="largeText">Large</string>
+    <string name="nothing">This Does Nothing</string>
+    <string name="except">Except this</string>
+</resources>
